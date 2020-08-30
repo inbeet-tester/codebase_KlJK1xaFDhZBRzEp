@@ -4,3 +4,4 @@ def main(a):
 
 def static():
 	return 2
+
